@@ -1,0 +1,12 @@
+Date: 10/14/2025
+Time: 11:00
+
+- CNN Presentation
+- Discussed coursework and timeline.
+
+- Taken responsibilities:
+Do Chapter 2 (Probabilities) - code up concepts as I go.
+Then Chapter 3 (Standard Distributions) - same with code snippets.
+Then Chapter 4 (Single Layer Networks: Regression).
+Also, code up a basic CNN using the MNIST example.
+
