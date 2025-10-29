@@ -10,3 +10,15 @@ Then Chapter 3 (Standard Distributions) - same with code snippets.
 Then Chapter 4 (Single Layer Networks: Regression).
 Also, code up a basic CNN using the MNIST example.
 
+Date: 10/23/2025
+Time: 11:00
+
+- Probability and Linear Regression discussion.
+- Discussed toy_mnist example and basic CNN implementation
+
+- Taken responsibilities:
+Ch2-Probability Exercises: 2.1 2.3 2.4 2.10
+Ch3-Distributions: 3.1 to 3.2.1
+Ch-4 Linear Regression Exercises: 4.1, 4.2, 4.3, 4.6
+Misc Topics: Unbiased Estimators, Parameter Checking, Sequential Container
+'''
