@@ -1,24 +1,55 @@
-Date: 10/14/2025
-Time: 11:00
+Independent Study: Foundations of CNN
+Student: Vatsalya Betala
+Supervisor: Prof. Sandesh Kamath
 
+------------------------------------------------------------
+Meeting 1
+Date: October 14, 2025
+Time: 11:00 AM
+
+Agenda:
 - CNN Presentation
-- Discussed coursework and timeline.
+- Discussion on coursework and project timeline
 
-- Taken responsibilities:
-Do Chapter 2 (Probabilities) - code up concepts as I go.
-Then Chapter 3 (Standard Distributions) - same with code snippets.
-Then Chapter 4 (Single Layer Networks: Regression).
-Also, code up a basic CNN using the MNIST example.
+Responsibilities Taken:
+- Chapter 2 (Probabilities) — Code up concepts as progressing
+- Chapter 3 (Standard Distributions) — Implement and visualize key ideas
+- Chapter 4 (Single-Layer Networks: Regression) — Apply with code snippets
+- Build a basic CNN using MNIST dataset
 
-Date: 10/23/2025
-Time: 11:00
+------------------------------------------------------------
+Meeting 2
+Date: October 23, 2025
+Time: 11:00 AM
 
-- Probability and Linear Regression discussion.
-- Discussed toy_mnist example and basic CNN implementation
+Discussion Topics:
+- Probability and Linear Regression concepts
+- Review of toy_mnist example and basic CNN implementation
 
-- Taken responsibilities:
-Ch2-Probability Exercises: 2.1 2.3 2.4 2.10
-Ch3-Distributions: 3.1 to 3.2.1
-Ch-4 Linear Regression Exercises: 4.1, 4.2, 4.3, 4.6
-Misc Topics: Unbiased Estimators, Parameter Checking, Sequential Container
-'''
+Responsibilities Taken:
+- Ch. 2 Probability Exercises: 2.1, 2.3, 2.4, 2.10
+- Ch. 3 Distributions: 3.1 → 3.2.1
+- Ch. 4 Linear Regression Exercises: 4.1, 4.2, 4.3, 4.6
+- Miscellaneous Topics:
+  - Unbiased estimators
+  - Parameter checking
+  - Sequential container concepts in PyTorch
+
+------------------------------------------------------------
+Meeting 3
+Date: October 30, 2025
+Time: 11:30 AM
+
+Responsibilities Taken:
+- Section 1.2: Plot the sin-curve and MSE with Ridge & Lasso regularization
+- Section 2.2.1: Uniform, Laplace, and Dirac Delta distributions (Plot 2.7)
+- Exercise 2.1: Apply probability to a 5-person example
+- Exercise 2.4: Analyze how variance E[x^2] changes for a Gaussian distribution
+- Exercise 2.10: Study joint distributions for independent random variables
+- Exercises: 2.8, 2.9, 2.11
+- Section 3.2.1: Multinomial Distributions
+- Exercise: 3.1
+- Section 4.3: Plot Figures 4.7 and 4.8
+- Concept Exploration: Is the derivative of sigmoid related to tanh?
+- Implementation: simple_cnn.py — Simulate synthetic dataset & train model
+- Section 5.1: Initial understanding and discussion
