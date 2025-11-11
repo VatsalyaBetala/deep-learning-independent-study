@@ -44,7 +44,7 @@ Responsibilities Taken:
 - Section 1.2: Plot the sin-curve and MSE with Ridge & Lasso regularization
 - Section 2.2.1: Uniform, Laplace, and Dirac Delta distributions (Plot 2.7)
 - Exercise 2.1: Apply probability to a 5-person example
-- Exercise 2.4: Analyze how variance E[x^2] changes for a Gaussian distribution
+- Exercise 2.4: Analyze how variance E[x] changes for a Gaussian distribution
 - Exercise 2.10: Study joint distributions for independent random variables
 - Exercises: 2.8, 2.9, 2.11
 - Section 3.2.1: Multinomial Distributions
@@ -53,3 +53,20 @@ Responsibilities Taken:
 - Concept Exploration: Is the derivative of sigmoid related to tanh?
 - Implementation: simple_cnn.py — Simulate synthetic dataset & train model
 - Section 5.1: Initial understanding and discussion
+
+------------------------------------------------------------
+Meeting 4
+Date: Novemeber 06, 2025
+Time: 12:00 PM
+
+- sin-fit: Try with different values for noise and observations.
+- Exercise 2.1: How are the expected values related to the confusion matrix?
+- Exercise 2.3: Read Convolution for continuous variables.
+- Exercise 2.4: Calculate (derive) variance for a Uniform distribution 
+- Exercise 2.4: Calculate (derive) variance for a Gaussian distribution
+- Exercise 5.1 
+- Section 5.3, 5.4 
+- Chapter 10: Section 10.1, 10.2 
+- Chapter 12: Transformers (Presentation in Dec)
+
+
