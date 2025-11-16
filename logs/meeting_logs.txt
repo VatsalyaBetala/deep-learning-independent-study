@@ -69,4 +69,15 @@ Time: 12:00 PM
 - Chapter 10: Section 10.1, 10.2 
 - Chapter 12: Transformers (Presentation in Dec)
 
+------------------------------------------------------------
+Meeting 5
+Date: Novemeber 13, 2025
+Time: 11:30 PM
 
+- sin-fit: Fix lasso regression for 10 points.
+- sin-fit: Plot Fig 1.7 (done)
+- Impact of M on N (regularization)
+- Ch-4: Bias-Variance Tradeoff, Fig-4.7, Fig-4.8
+- Ch-4: 4.1, 4.3 (All Figures)
+- Calculate (derive) variance for a Uniform distribution: Standard Deviation
+- Definition: Odd and Even functions (integrating)
