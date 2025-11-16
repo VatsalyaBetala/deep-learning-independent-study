@@ -12,7 +12,8 @@ def run_polynomial_regression(N=10, sigma=0.1):
     y_test = np.sin(2 * np.pi * x_test)
 
     # Define degrees to test
-    degrees = [3, 4, 9]
+    degrees = [i for i in range(1,10)]
+    rmses = []
 
     for i in degrees:
         Phi_train = design_matrix(x, i) # (N, M+1)
@@ -41,13 +42,22 @@ def run_polynomial_regression(N=10, sigma=0.1):
 
         # RMSE 
         rmse_true = np.sqrt(np.mean((y_train_pred - t_true_train)**2))
-        print(f"RMSE vs True Function (M={i}): {rmse_true:.5f}")
+        rmses.append(rmse_true)
+
+    plt.figure(figsize=(6,4))
+    plt.plot(degrees, rmses, marker='o', color='crimson', linewidth=2)
+    plt.title("RMSE vs Polynomial Degree")
+    plt.xlabel("Polynomial Degree (M)")
+    plt.ylabel("RMSE (vs True Function)")
+    plt.grid(True, linestyle='--', alpha=0.6)
+    plt.xticks(degrees)
+    plt.show()
+    # print(f"RMSE vs True Function (M={i}): {rmse_true:.5f}")
+
         
-# run_polynomial_regression(N=10, sigma=0.1)
+run_polynomial_regression(N=10, sigma=0.1)
 # run_polynomial_regression(N=10, sigma=0.3)
 # run_polynomial_regression(N=25, sigma=0.1)
-run_polynomial_regression(N=50, sigma=0.2)
-
-
+# run_polynomial_regression(N=50, sigma=0.2)
 
 
