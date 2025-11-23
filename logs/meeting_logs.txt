@@ -93,3 +93,13 @@ Time: 11:30 PM
 - Louville's Theorem: Reproduce the integration of e ^ -(x^2). (use Polar Coordinates).
 - Explore the definition of Gaussian distribution.  
 - Linear Regresion Basis Functions (w/ multiple dimensions of input) (done)
+
+------------------------------------------------------------
+Meeting 7 
+Date: Novemeber 21, 2025
+Time: 2:00 PM
+
+- Linear Regresion: Section 4.1.1, explain figure 4.1 and 4.2.
+- Understand Guassian and Sigmoidal basis functions.
+- Bias-Variance Tradeoff: Fig 4.3, Plot 4.7 (understanding)
+- Section 5.1: Initial understanding and discussion.
