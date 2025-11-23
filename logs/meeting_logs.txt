@@ -81,3 +81,15 @@ Time: 11:30 PM
 - Ch-4: 4.1, 4.3 (All Figures)
 - Calculate (derive) variance for a Uniform distribution: Standard Deviation
 - Definition: Odd and Even functions (integrating)
+
+------------------------------------------------------------
+Meeting 6
+Date: Novemeber 17, 2025
+Time: 11:30 PM
+
+- sin-fit: Convert to Jupyter Notebook w/ documentation. 
+- Ridge Regresion: Plot Test RMSE v/s degrees.(done)
+- Fix lasso_regression and show with lamda=0 and different values. Observe the impact at M=9 (according to the book). (done)
+- Louville's Theorem: Reproduce the integration of e ^ -(x^2). (use Polar Coordinates).
+- Explore the definition of Gaussian distribution.  
+- Linear Regresion Basis Functions (w/ multiple dimensions of input) (done)
