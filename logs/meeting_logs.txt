@@ -114,3 +114,12 @@ Time: 11:00 PM
 - Bias-variance-tradeoff: Implement multiple Gaussian basis functions
 - Explain Fig-4.4
 - Chapter-5: Discriminant Functions - Section 5.2 (+Plots)
+
+------------------------------------------------------------
+Meeting 10
+Date: December 02, 2025
+Time: 12:00 PM
+
+- Decision Theory: Summarize paragraph in page 132, before Section 5.1. 
+- Relate Section 5.1, 5.3, 5.4 to this.
+- Read 1/2 beginning pages to describe the approach in Section 5.3 and 5.4. 
