@@ -103,3 +103,14 @@ Time: 2:00 PM
 - Understand Guassian and Sigmoidal basis functions.
 - Bias-Variance Tradeoff: Fig 4.3, Plot 4.7 (understanding)
 - Section 5.1: Initial understanding and discussion.
+
+------------------------------------------------------------
+Meeting 8
+Date: Novemeber 24, 2025
+Time: 11:00 PM
+
+- Reproduce Figure-4.2, Figure-4.8
+- Explain Figure-4.3
+- Bias-variance-tradeoff: Implement multiple Gaussian basis functions
+- Explain Fig-4.4
+- Chapter-5: Discriminant Functions - Section 5.2 (+Plots)
