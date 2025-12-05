@@ -123,3 +123,12 @@ Time: 12:00 PM
 - Decision Theory: Summarize paragraph in page 132, before Section 5.1. 
 - Relate Section 5.1, 5.3, 5.4 to this.
 - Read 1/2 beginning pages to describe the approach in Section 5.3 and 5.4. 
+
+------------------------------------------------------------
+Meeting 11
+Date: December 12, 2025
+Time: 6:30 PM
+
+- CS231n: Lecture 4 - Neural Networks and Backpropagation. 
+- Chapter 5: Section 5.3 - Discriminative Classifiers.
+- Chapter 5: Understand the difference between Section 5.1, 5.3, 5.4
