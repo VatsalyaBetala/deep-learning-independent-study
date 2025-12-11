@@ -126,9 +126,22 @@ Time: 12:00 PM
 
 ------------------------------------------------------------
 Meeting 11
-Date: December 12, 2025
+Date: December 05, 2025
 Time: 6:30 PM
 
 - CS231n: Lecture 4 - Neural Networks and Backpropagation. 
 - Chapter 5: Section 5.3 - Discriminative Classifiers.
 - Chapter 5: Understand the difference between Section 5.1, 5.3, 5.4
+
+------------------------------------------------------------
+Meeting 12
+Date: December 09, 2025
+Time: 11:00 PM
+
+- CS231n: Lecture 3 - Gradient Decent
+- Transformers: Presentation
+- Write notes for Backpropagation on sigmoid
+- Circular dataset (generation and fitting) -  figure out R and Thetha.
+- Chapter 5: Section 5.3 - Discriminative Classifiers.
+- Chapter 5: Understand the difference between Section 5.1, 5.3, 5.4
+
